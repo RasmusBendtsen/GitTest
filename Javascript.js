@@ -1,2 +1,2 @@
 //new Javascript file
-document.getElementByID("hat");
+var x = document.getElementByID("hat");
